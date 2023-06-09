@@ -1,3 +1,5 @@
+### 项目预览
+![项目预览](https://s2.loli.net/2023/06/09/etFlVK6Mjm2yB4Q.png)
 ### 说明
 前端Vue
 后端PHP
