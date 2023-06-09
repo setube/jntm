@@ -1,0 +1,56 @@
+{
+  "name": "bduss",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "artalk": "^2.5.5",
+    "axios": "^1.4.0",
+    "clipboard": "^1.7.1",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.1.1",
+    "element-ui": "^2.15.13",
+    "html-activate-power-mode": "^0.1.5",
+    "qs": "^6.11.1",
+    "vue": "^2.6.14",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.14",
+    "css-loader": "^6.8.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^9.14.1",
+    "postcss": "^8.4.24",
+    "postcss-loader": "^7.3.2",
+    "style-loader": "^3.3.3",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/strongly-recommended",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
