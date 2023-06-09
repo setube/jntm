@@ -2,6 +2,9 @@
 前端Vue
 后端PHP
 
+### 拉取
+git clone https://github.com/setube/jntm.git
+
 ### 安装
 npm install 
 
